@@ -1,0 +1,1 @@
+﻿Browser("Login - SmartAdmin").Page("Login - SmartAdmin").WebElement("Autenticación").Check CheckPoint("Autenticación") @@ hightlight id_;_Browser("Login - SmartAdmin").Page("Login - SmartAdmin").WebElement("Autenticación")_;_script infofile_;_ZIP::ssf1.xml_;_
